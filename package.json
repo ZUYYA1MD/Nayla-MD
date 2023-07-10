@@ -1,5 +1,5 @@
 {
-  "name": "Nayla-MD",
+  "name": "ZynnBot-MD",
   "version": "1.0",
   "description": "Simple WhatsApp Bot",
   "main": "index.js",
@@ -19,7 +19,7 @@
     "whatsapp",
     "whatsapp-bot"
   ],
-  "author": "Zevano",
+  "author": "zuyya",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/zevoffc/nayla/issues"
