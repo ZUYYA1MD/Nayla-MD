@@ -4,8 +4,8 @@ const { unwatchFile, watchFile } = require('fs')
 //=============『 Utama 』================== //
 global.Owner = {
 // use the phone number with the country code, for example Indonesia "62" America "1" etc
-"6289520306297": { // 6289520306297
-name: "Zevano",
+"6288272095913": { // 6289520306297
+name: "zuyya",
 isReport: true, // if true this number will send if user use command /report or /join
 isCreator: true, // if true this number will send if user use command /owner or /creator
 isDev: true
@@ -15,18 +15,18 @@ global.prems = []
 global.mods = ["6283897390164"] // Want some help?
 
 //=============『 Info Owner 』================== //
-global.instagram = "https://instagram.com/zevoffc"
-global.github = "https://github.com/zevoffc"
+global.instagram = "nita_nataka"
+global.github = "https://github.com/ZUYYA1MD"
 global.donasi = {
-dana: "gada",
-pulsa: "+62 895 2030 6297",
+dana: "+62 882 7209 5913",
+pulsa: "+62 882 7209 5913",
 gopay: "gada",
 saweria: "https://saweria.co/Scaff"
 }
 
 //=============『 Info Bot 』================== //
-global.linkGC = ["https://chat.whatsapp.com/IS1V1LKUy16Fjd08uPtTdP"]
-global.botname = "NAYLA-BOTZ"
+global.linkGC = ["https://chat.whatsapp.com/K4BWQLk2st67d8MmTxA2tH"]
+global.botname = "Zynn-Bot"
 
 //=============『 Tampilan & Lainnya 』================== //
 global.ext = {
@@ -34,7 +34,7 @@ title: "Sabar sedang di proses",
 body: "NayLa-B0TZ",
 thum: "https://telegra.ph/file/5859353a380d9b67be198.jpg"
 }
-global.wm = '© nayla'
+global.wm = '© zuyya yourself zynbot'
 global.mess = {
 wm: global.wm,
 sukses: "Done Ya kawand",
@@ -57,8 +57,8 @@ promote: "「 PROMOTE - DETECTED 」\nTarget : @user\nStatus : Member -> Admin\n
 demote: "「 DEMOTE - DETECTED 」\nTarget : @user\nStatus : Admin -> Member\nYAHAHA KASIAN KENA DEMOTE"
 }
 }
-global.packname = "NayLa-B0TZ"
-global.author = "Zevano"
+global.packname = "ZYNN-B0TZ"
+global.author = "zuyya yourself"
 global.mesreport = 50
 global.expc = 15
 
